@@ -1,0 +1,16 @@
+skyfield
+geopandas
+geocitysorter
+tqdm
+numpy
+pandas
+geopy
+bs4
+platformdirs
+shapely
+timezonefinder
+tqdm
+docx2pdf
+matplotlib
+python-docx
+selenium
